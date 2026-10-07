@@ -221,7 +221,7 @@ export default function Home() {
       <img
         src="/profile.jpg"
         alt="Vivek Koundal"
-        className="hidden aspect-[4/5] w-full rounded-xl object-cover object-center shadow-2xl md:block md:rounded-2xl"
+        className="aspect-[4/5] w-full rounded-xl object-cover object-center shadow-2xl sm:rounded-2xl"
       />
     </div>,
     ...projects.map((project, index) => (
