@@ -64,7 +64,7 @@ const skillGroups = [
   {
     icon: <Code2 className="h-6 w-6" />,
     title: "Languages",
-    skills: ["TypeScript", "JavaScript", "HTML", "CSS"],
+    skills: ["TypeScript", "JavaScript", "Java", "Python", "HTML", "CSS"],
   },
   {
     icon: <Terminal className="h-6 w-6" />,

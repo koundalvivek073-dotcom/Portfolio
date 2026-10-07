@@ -63,7 +63,21 @@ public/
 
 ## Deployment
 
-The project can be deployed to Vercel or another platform that supports Next.js. Use the standard Next.js build command, `npm run build`.
+### Deploy to Vercel
+
+1. Push this repository to GitHub and import it into [Vercel](https://vercel.com/new).
+2. Keep the root directory set to `./` and select the Next.js framework preset.
+3. Use the default install and build settings (`npm install` and `npm run build`). Vercel detects the Next.js output automatically; do not set a custom output directory.
+4. No environment variables are required for the current portfolio.
+
+The project requires Node.js 20.9 or later, as declared in `package.json`. Vercel can deploy from every push to the connected branch and create preview deployments for pull requests.
+
+Before deploying, the production build can be checked locally with:
+
+```bash
+npm ci
+npm run build
+```
 
 ## Links
 
