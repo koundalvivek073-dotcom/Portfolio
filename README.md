@@ -1,3 +1,5 @@
+[![Live portfolio](https://img.shields.io/badge/Live%20Portfolio-Visit%20website-2563eb?style=for-the-badge)](https://portfolio-kappa-five-ygg1seoizb.vercel.app/)
+
 # Vivek Koundal — Portfolio
 
 A cinematic, scroll-driven developer portfolio built with Next.js, React, TypeScript, and Tailwind CSS. The page uses a full-screen Tokyo skyline video as its backdrop, with the video scrubbed by scroll position while portfolio scenes transition in the foreground.
@@ -81,6 +83,5 @@ npm run build
 
 ## Links
 
-- [Live portfolio](https://portfolio-kappa-five-ygg1seoizb.vercel.app/)
 - [GitHub](https://github.com/koundalvivek073-dotcom)
 - [LinkedIn](https://www.linkedin.com/in/vivek-koundal-977b42332/)
